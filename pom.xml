@@ -99,14 +99,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-Release</name>
-	      <url>http://43.204.231.61:8081/repository/maven-Release/</url>
+	      <name>wallmart-release</name>
+	      <url>http://43.204.231.61:9980/palla/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-Snapshot</name>
-	      <url>http://http://43.204.231.61:8081/repository/maven-Snapshot/</url>
+	      <name>wallmart-snapshot</name>
+	      <url>http://43.204.231.61:9980/palla/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
